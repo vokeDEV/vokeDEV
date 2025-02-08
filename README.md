@@ -1,4 +1,4 @@
-<h1 align="center">print("Hi i'm vokelen") vokelenİDE</h1>
+<h1 align="center">print("Hi i'm vokeDEV") vokeDEV</h1>
 <h3 align="center">I am actively working as a CNC operator and software in Turkey.</h3>
 
 - 🔭 I’m currently operator on [Palladium Technology and Engineering](https://palladium.gen.tr/)
